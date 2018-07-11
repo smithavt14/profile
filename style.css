@@ -1,0 +1,95 @@
+body {
+  background-image: url(images/Midnight_city.jpg);
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+}
+
+h1 {
+  color: #071013;
+  font-size: 35px;
+  margin: 5px;
+}
+
+h2, h3 {
+  font-size: 20px;
+  color: #071013;
+  font-weight: bold;
+  margin: 5px;
+}
+
+a {
+  text-decoration: none;
+  color: #071013;
+}
+
+a:hover {
+  font-weight: bolder;
+}
+
+p {
+  color: #071013;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+  padding: 10px 40px;
+}
+
+div {
+    display: block;
+}
+
+.container {
+  width: 800px;
+  margin: 30px auto;
+}
+
+.box {
+  margin: 20px;
+  padding: 20px;
+  border-radius: 4px;
+  background-color: #F9F9F9;
+  text-align: center;
+  box-shadow: 1px 1px 1px #CECECE;
+}
+
+.img-header {
+  width: 250px;
+  height: auto;
+}
+
+.img-table {
+  height: auto;
+  width: 100px;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.btn-black {
+  background: #232526;
+  padding: 5px 0px;
+  margin: 10px 250px;
+  border-radius: 5px;
+}
+
+.btn-black a {
+  color: #E0E0E0;
+}
+
+.btn-black:hover {
+  box-shadow: 3px 3px 10px #B5B5B5;
+  font-weight: bolder;
+}
+
+.icon-small {
+  padding: 5px;
+  font-size: 30px;
+}
+
