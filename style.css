@@ -1,8 +1,8 @@
 body {
-  background-image: url(images/Midnight_city.jpg);
+/*  background-image: url(images/Midnight_city.jpg);*/
   font-family: 'Raleway', sans-serif;
   font-size: 16px;
-  color: #071013;
+  background-color: #E5E5E5;
 }
 
 h1 {
@@ -51,7 +51,7 @@ div {
 }
 
 .box {
-  margin: 20px;
+  margin: 10px;
   padding: 20px;
   border-radius: 4px;
   background-color: #F9F9F9;
@@ -86,8 +86,9 @@ div {
 
 .btn-black:hover {
   background-image: url("images/Instagram-hor.jpg");
-  box-shadow: 3px 3px 10px #B5B5B5;
+  box-shadow: 3px 3px 5px #B5B5B5;
   font-weight: bolder;
+  transition: box-shadow 0.3s ease-in-out;
 }
 
 .icon-small {
@@ -113,7 +114,6 @@ div {
   color: #F9F9F9;
   font-weight: bolder;
 }
-
 
 .sidebar li {
   padding: 25px;
