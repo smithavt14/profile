@@ -85,6 +85,7 @@ div {
 }
 
 .btn-black:hover {
+  background-image: url("images/Instagram-hor.jpg");
   box-shadow: 3px 3px 10px #B5B5B5;
   font-weight: bolder;
 }
@@ -95,7 +96,7 @@ div {
 }
 
 .sidebar {
-  background-color: #798184;
+  background-image: url("images/Instagram-vert.jpg");
   position: fixed;
   width: 125px;
   left: 0;
